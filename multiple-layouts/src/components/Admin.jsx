@@ -1,0 +1,13 @@
+import React from 'react'
+
+function Admin() {
+  return (
+    <div className='text-left'>
+      <h1>Admin Page</h1>
+      <p className=' leading-loose'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo excepturi, eligendi quos, id mollitia cum doloremque qui ipsum maiores suscipit optio? Veritatis, obcaecati molestiae fugit repudiandae minus facilis culpa vitae aperiam ipsa libero consectetur rerum eaque nulla, maiores eum iure unde reprehenderit necessitatibus nam recusandae ex officia ab doloribus? Quae, ducimus nulla mollitia optio obcaecati tempora sit tenetur sint maiores vitae? Enim libero sed dolores voluptatum iusto sunt ullam, rerum doloribus ipsam, provident quas debitis repellat consectetur. Sapiente reprehenderit error vitae id, consectetur totam quisquam delectus illo sequi a perferendis dolorum aspernatur unde ex ratione natus cupiditate saepe molestiae veniam nisi? A odio libero aspernatur, architecto, ipsam corrupti voluptatem ad nulla porro consequuntur autem dicta iste iusto fugit obcaecati odit voluptas reprehenderit placeat quidem quae culpa esse, sit sed. Quibusdam amet libero deleniti, adipisci et tenetur dolorem ipsam consequuntur saepe suscipit molestiae mollitia perspiciatis enim quasi at consectetur voluptatibus voluptate veritatis modi inventore repellendus, alias accusamus quas praesentium? Culpa, eum non quo nostrum temporibus, voluptatum ut ipsum repellendus amet minus reiciendis repudiandae sapiente ullam est vel, ipsa eaque eos cum? Minus facilis autem labore at maxime provident sequi dignissimos nisi, aliquid magni cupiditate quas inventore natus nemo earum hic fugiat.</p>
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque dolor ipsam molestias sunt architecto totam facere quo, porro saepe quod autem corporis amet magnam quis, possimus minima fugiat eius numquam praesentium? Illo ex dolorem maxime porro sapiente quo omnis fugiat. Perferendis quaerat voluptas omnis odio accusantium? Eligendi repudiandae dolore sapiente. Et porro aut ullam, repellat at accusamus non numquam vitae magnam iste, mollitia dolore repellendus, dolorem minima commodi quidem similique nam culpa error repudiandae totam esse! Cumque nam iusto repellat! Quo sint ipsum iusto, dolorem itaque perferendis accusamus veniam eligendi praesentium, optio nam corrupti facere voluptatibus magni doloremque delectus nemo.</p>
+    </div>
+  )
+}
+
+export default Admin

@@ -1,0 +1,120 @@
+{
+  "users": [
+    {
+      "email": "admin@localhost.com",
+      "password": "$2a$10$Coa3l/dZz5wmHWjGxPnvOO8s3lXrcRrhwpPZPGCMkDxr3xL7xCCYq",
+      "firstname": "Admin",
+      "lastname": "Super",
+      "role": "Admin",
+      "id": 1
+    },
+    {
+      "email": "test1@localhost.com",
+      "password": "$2a$10$gbVi1KP/n/o3oSFUB2VrMuWYbT6PLSn1DHrheDdnAEDUDnA8uP7Zu",
+      "firstname": "Test",
+      "lastname": "One",
+      "role": "Registered",
+      "id": 2
+    },
+    {
+      "email": "test2@localhost.com",
+      "password": "$2a$10$H46zGmC.vOfIY.GJWDEeSOtLjGAXXJ8vxoMesvhdBCcFfAJLbYmzi",
+      "firstname": "test",
+      "lastname": "two",
+      "role": "Registered",
+      "id": 3
+    },
+    {
+      "email": "test3@localhost.com",
+      "password": "$2a$10$NSe0qsrhLfBow5gaFlqFw.s85v5NDv/sfbBwbgHHij7dy6XMvMvnC",
+      "firstname": "Test ",
+      "lastname": "Three",
+      "role": "Registered",
+      "id": 4
+    },
+    {
+      "email": "test4@localhost.com",
+      "password": "$2a$10$wq92bFyj6kopYSZk9Ndohem142k0d81nDcs3XZE5OIX3CPy5OKkIq",
+      "firstname": "Test",
+      "lastname": "Four",
+      "role": "Registered",
+      "id": 5
+    },
+    {
+      "email": "test5@localhost.com",
+      "password": "$2a$10$.YG03iezrJDGJk9I/nILeuidSU4SKkYuyQi4yN8UTKvu.hKMHkmt.",
+      "firstname": "Test",
+      "lastname": "Five",
+      "role": "Registered",
+      "id": 6
+    },
+    {
+      "email": "test6@localhost.com",
+      "password": "$2a$10$rJvOK6fh70s0R3cHB1BIOe/j/.lInUX6s0P7ZD6mEKjHfQDoRPyy6",
+      "firstname": "Test",
+      "lastname": "Six",
+      "role": "Registered",
+      "id": 7
+    },
+    {
+      "email": "test7@localhost.com",
+      "password": "$2a$10$/Q/t8IvXI2eUD.nkJ0E8y.8xlOL/U8SOl0ZfmNtkjQQquYSgSxaXa",
+      "firstname": "Test",
+      "lastname": "Seven",
+      "role": "Registered",
+      "id": 8
+    },
+    {
+      "email": "test8@localhost.com",
+      "password": "$2a$10$LMDartIxpw/QDUYCmy3EmOOjaOT7O5gGiehXLuWJqRNj061RmU4RC",
+      "firstname": "Test",
+      "lastname": "Eight",
+      "role": "Registered",
+      "id": 9
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Product One",
+      "price": 30.4,
+      "description": "Sed haec nihil sane ad rem; Sed quid sentiat, non videtis. Terram, mihi crede, ea lanx et maria deprimet. Ecce aliud simile dissimile. Sed haec in pueris; Ac tamen hic mallet non dolere. "
+    },
+    {
+      "id": 2,
+      "title": "Product Two",
+      "price": 20.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, vitae."
+    },
+    {
+      "id": 3,
+      "title": "Product Three",
+      "price": 20.5,
+      "description": "Lorem ipsum dlor sit amet, consectetur adipisicing elit. Hic, vitae."
+    },
+    {
+      "id": 4,
+      "title": "Product Four",
+      "price": 20.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, vitae."
+    },
+    {
+      "id": 5,
+      "title": "Product Five",
+      "price": 20.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, vitae."
+    },
+    {
+      "id": 6,
+      "title": "Product Six",
+      "price": 20.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, vitae."
+    },
+    {
+      "id": 7,
+      "title": "Product Seven",
+      "price": 20.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, vitae."
+    }
+  ]
+}

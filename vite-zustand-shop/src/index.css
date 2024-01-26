@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h2 {
+    @apply border-b-2 border-b-gray-400 mb-3 pb-3 pt-2 tracking-widest text-4xl;
+  }
+  .left-navigation a {
+    @apply hover:text-red-600 font-semibold tracking-widest;
+  }
+
+  .left-navigation li {
+    @apply hover:bg-yellow-100 p-2 rounded-lg mr-3;
+  }
+
+  .btn {
+    @apply bg-gray-500 text-white pt-1 pb-1 p-4 rounded-lg hover:bg-slate-800;
+  }
+
+  input[type="text"], input[type="email"], input[type="password"] {
+    @apply p-2 border-gray-400 border-2 min-w-full mb-1;
+  }
+
+  .badge-default {
+    @apply bg-slate-400 text-white rounded-full pt-1 pb-1 p-3;
+  }
+
+  .customTable {
+    @apply mt-3 w-full border-[1px] border-blue-900 rounded-md  border-separate;
+  }
+  .customTable thead {
+    @apply text-black font-bold p-3 border-separate bg-slate-300;
+  }
+  .customTable thead th,
+  thead td {
+    @apply p-3;
+  }
+
+  .customTable tbody tr:nth-child(even) {
+    @apply bg-gray-100;
+  }
+
+  .customTable tbody tr:nth-child(odd) {
+    @apply bg-gray-200;
+  }
+
+  .customTable tbody tr td {
+    @apply p-3 rounded-md;
+  }
+
+  .spinnerWrapper{
+    @apply container max-w-screen-lg mx-auto pb-10 fixed bg-black/75 w-full h-full;
+  }
+  .spinnerWrapper .spinner{
+    @apply my-auto fixed w-[200px] mx-auto top-[40%] left-[40%];    
+  }
+
+  .main-content {
+    @apply h-[60vh] overflow-auto pr-3;
+  }
+}
+
+
+

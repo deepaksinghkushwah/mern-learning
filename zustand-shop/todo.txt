@@ -1,0 +1,12 @@
+=> products Listing
+=> add to cart
+=> remove from cart
+=> full cart page
+=> template for site
+=> left navigation
+=> payment gateway
+=> static pages
+=> login
+=> registration
+=> persists session for logged in
+=> add products if role is admin

@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "email": "admin@localhost.com",
+      "password": "$2a$10$061bIib5YwivqTYYb9ac/.ZKVifWiAfpGXRo9hPAEEu2BYrx.0Bt.",
+      "roles": [
+        "admin"
+      ],
+      "id": 1
+    },
+    {
+      "email": "admin_editor1@localhost.com",
+      "password": "$2a$10$mDIMLhaNzkomJYFVhWZ8cep2xqPJR/ZPIXKkLlDDBXleKyTYY84RC",
+      "roles": [
+        "admin",
+        "editor"
+      ],
+      "id": 2
+    },
+    {
+      "email": "editor1@localhost.com",
+      "password": "$2a$10$02nNFv6VgFRrcITIXTdizu.Ype9W2VouJ9H4ymRbQMHaVFIexmB3.",
+      "roles": [
+        "editor"
+      ],
+      "id": 3
+    },
+    {
+      "email": "editor2@localhost.com",
+      "password": "$2a$10$tPSv8STlx59la2Uwqy3tVOfEqurtqt55SbmGhCB43hbaLfA19EDAq",
+      "roles": [
+        "editor"
+      ],
+      "id": 4
+    },
+    {
+      "email": "admin_editor2@localhost.com",
+      "password": "$2a$10$CqYdXjfDMDuWBs5qKACB7.gFjMTnXLF0HBvU7Tg1vh7wxZqtyEjLa",
+      "roles": [
+        "editor",
+        "admin",
+        "register"
+      ],
+      "id": 5
+    }
+  ]
+}
